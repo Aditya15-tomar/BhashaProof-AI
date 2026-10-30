@@ -1,0 +1,388 @@
+
+[
+  {
+    "id": "Q001",
+    "question": "What is the main purpose of this document?",
+    "language": "English",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q002",
+    "question": "How does the micro-irrigation scheme aim to conserve water?",
+    "language": "English",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q003",
+    "question": "Which irrigation methods are mentioned in the document?",
+    "language": "English",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q004",
+    "question": "How does the scheme aim to improve agricultural production?",
+    "language": "English",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q005",
+    "question": "What benefits does the scheme aim to provide to crop quality?",
+    "language": "English",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q006",
+    "question": "What update date and time are shown on page 2?",
+    "language": "English",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["2"]
+      }
+    ]
+  },
+  {
+    "id": "Q007",
+    "question": "What type of irrigation scheme does the document describe?",
+    "language": "English",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q008",
+    "question": "इस दस्तावेज़ का मुख्य उद्देश्य क्या है?",
+    "language": "Hindi",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q009",
+    "question": "यह योजना पानी बचाने में कैसे मदद करती है?",
+    "language": "Hindi",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q010",
+    "question": "दस्तावेज़ में सिंचाई के किन तरीकों का उल्लेख है?",
+    "language": "Hindi",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q011",
+    "question": "इस योजना से कृषि उत्पादन में क्या सुधार होने की उम्मीद है?",
+    "language": "Hindi",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q012",
+    "question": "यह योजना फसलों की गुणवत्ता सुधारने का लक्ष्य कैसे रखती है?",
+    "language": "Hindi",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q013",
+    "question": "दस्तावेज़ के दूसरे पृष्ठ पर कौन-सी अपडेट तिथि और समय दिया गया है?",
+    "language": "Hindi",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["2"]
+      }
+    ]
+  },
+  {
+    "id": "Q014",
+    "question": "यह दस्तावेज़ किस प्रकार की सिंचाई योजना के बारे में है?",
+    "language": "Hindi",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q015",
+    "question": "Is scheme ka main purpose kya hai?",
+    "language": "Hinglish",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q016",
+    "question": "Micro-irrigation se paani kaise bachta hai?",
+    "language": "Hinglish",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q017",
+    "question": "Document mein irrigation ke kaun-kaun se methods bataye gaye hain?",
+    "language": "Hinglish",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q018",
+    "question": "Is scheme se farmers ko kya benefit milne ka aim hai?",
+    "language": "Hinglish",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q019",
+    "question": "Scheme ka agricultural production aur crop quality par kya objective hai?",
+    "language": "Hinglish",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["1"]
+      }
+    ]
+  },
+  {
+    "id": "Q020",
+    "question": "Page 2 par update ki date aur time kya diya hua hai?",
+    "language": "Hinglish",
+    "expected_answerable": true,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["2"]
+      }
+    ]
+  },
+  {
+    "id": "Q021",
+    "question": "What is the author's favourite colour?",
+    "language": "English",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q022",
+    "question": "What is the author's full name?",
+    "language": "English",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q023",
+    "question": "In which city was the author born?",
+    "language": "English",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q024",
+    "question": "What is the exact total budget allocated to this scheme?",
+    "language": "English",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q025",
+    "question": "What is the exact number of farmers who have benefited from this scheme?",
+    "language": "English",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q026",
+    "question": "लेखक का पसंदीदा रंग क्या है?",
+    "language": "Hindi",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q027",
+    "question": "इस दस्तावेज़ के लेखक का पूरा नाम क्या है?",
+    "language": "Hindi",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q028",
+    "question": "लेखक का जन्म किस शहर में हुआ था?",
+    "language": "Hindi",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q029",
+    "question": "इस योजना के लिए कुल कितने रुपये का बजट निर्धारित किया गया है?",
+    "language": "Hindi",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q030",
+    "question": "इस योजना से लाभान्वित किसानों की सटीक संख्या कितनी है?",
+    "language": "Hindi",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q031",
+    "question": "Author ka favourite colour kya hai?",
+    "language": "Hinglish",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q032",
+    "question": "Is document ke author ka full name kya hai?",
+    "language": "Hinglish",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q033",
+    "question": "Author ka birth city kaunsa hai?",
+    "language": "Hinglish",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q034",
+    "question": "Scheme ka exact total budget kitna hai?",
+    "language": "Hinglish",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q035",
+    "question": "Is scheme se exactly kitne farmers benefit hue hain?",
+    "language": "Hinglish",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q036",
+    "question": "What is the official telephone number of the department?",
+    "language": "English",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q037",
+    "question": "इस योजना को लागू करने वाले अधिकारी का मोबाइल नंबर क्या है?",
+    "language": "Hindi",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q038",
+    "question": "What is the exact publication date of the original document?",
+    "language": "English",
+    "expected_answerable": false,
+    "expected_sources": [
+      {
+        "document": "sample_policy_cc85838bf982.pdf",
+        "pages": ["2"]
+      }
+    ]
+  },
+  {
+    "id": "Q039",
+    "question": "Document mein author ki qualification kya di gayi hai?",
+    "language": "Hinglish",
+    "expected_answerable": false,
+    "expected_sources": []
+  },
+  {
+    "id": "Q040",
+    "question": "इस योजना के अगले वर्ष का सटीक बजट कितना होगा?",
+    "language": "Hindi",
+    "expected_answerable": false,
+    "expected_sources": []
+  }
+]

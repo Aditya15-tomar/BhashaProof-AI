@@ -1,0 +1,184 @@
+﻿id,question,language,expected_answerable,expected_source_pages,retrieved_source_pages,retrieval_hit,answer_abstained,abstention_correct,citation_count,valid_citation_count,citation_precision,expected_source_cited,answer,error
+Q001,What is the main purpose of this document?,English,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"The document is a policy description for a **micro‑irrigation (drip‑/sprinkler) scheme** under the Prime Minister’s Irrigation Programme (PMKSY). Its main purpose is to **increase the irrigated area and agricultural production while using less water, and to improve the quality of the crops** by providing subsidised micro‑irrigation systems to farmers【Source 1, Page 1】【Source 3, Page 1】.",
+Q002,How does the micro-irrigation scheme aim to conserve water?,English,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"The micro‑irrigation scheme is intended to **save water by delivering it more efficiently**.  
+Its stated purpose is to:
+
+* **Irrigate the largest possible area with the least amount of water**, thereby raising crop yields and quality. [Source 1, Page 1]  
+* **Achieve higher production using less water** through the use of drip or sprinkler (spin) systems, and to raise awareness of the quality standards and crop‑specific suitability of these technologies. [Source 2, Page 1]
+
+In short, the scheme conserves water by promoting drip‑ and sprinkler‑based irrigation, which applies water directly to the plant root zone or canopy, allowing farmers to obtain more crop output while consuming less water overall.",
+Q003,Which irrigation methods are mentioned in the document?,English,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"The document refers to two irrigation methods:
+
+- **Drip irrigation**  
+- **Sprinkler irrigation**  
+
+These are mentioned together as “ड्रिप/स्पिं कलर” (drip/sprinkler) in the policy description【Source 2, Page 1】 and again in the plan details【Source 3, Page 1】.",
+Q004,How does the scheme aim to improve agricultural production?,English,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,4,4,1.0,True,"The scheme is designed to raise farm output by **using water more efficiently and by improving crop quality**.  
+
+- It promotes **micro‑irrigation (drip or sprinkler) systems** so that a larger area can be irrigated with the same or less water, which directly increases the amount of crop that can be produced per unit of water [Source 1, Page 1].  
+- The stated objective is “to obtain more production with less water and to raise the **quantity and quality of crops**” [Source 2, Page 1].  
+- By subsidising the purchase of these drip/sprinkler systems, the programme gives farmers the financial means to adopt the technology, thereby expanding irrigated land and improving yields [Source 1, Page 1].  
+- It also includes an awareness component that informs farmers about the **quality standards of drip/sprinkler equipment and their suitability for specific crops**, helping them choose the right technology for better production [Source 2, Page 1].
+
+Together, these measures aim to increase the irrigated area, boost overall agricultural production, and enhance the quality of the harvested crops.",
+Q005,What benefits does the scheme aim to provide to crop quality?,English,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"The scheme is intended to improve crop quality by:
+
+- Enabling higher yields with less water while producing **quality‑graded crops**【Source 1, Page 1】.  
+- Raising **productivity and the overall quality of the produce** through the use of drip or sprinkler irrigation systems【Source 2, Page 1】.  
+
+These objectives focus on both increasing output and enhancing the standard and utility of the harvested crops.",
+Q006,What update date and time are shown on page 2?,English,True,"[[""sample_policy_cc85838bf982.pdf"", ""2""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,1,1,1.0,True,"The page shows an update dated **27‑10‑2022** with the time **12:10:09**【Source 2, Page 2】.",
+Q007,What type of irrigation scheme does the document describe?,English,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"The document describes a **micro‑irrigation scheme** (drip‑ and sprinkler‑based) that is implemented under the **Prime Minister’s Irrigation Scheme (PM‑KSY)**. The scheme is referred to as a “micro‑irrigation” (माईक्रोइरिगेशन) program that promotes drip and sprinkler systems to achieve higher crop yields with less water [Source 1, Page 1] and is specifically listed as “प्रधान मंत्री सिंंचाई योजना (PMKSY) के अन्तसर्गत केन्द्र परिवर्तित माईक्रोइरिगेशन (Per Drop more corp)” [Source 2, Page 1].",
+Q008,इस दस्तावेज़ का मुख्य उद्देश्य क्या है?,Hindi,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"दस्तावेज़ का मुख्य उद्देश्य **कम पानी में अधिक से अधिक क्षेत्र को सिंचित करके, फसल उत्पादन एवं उसकी गुणवत्ता को बढ़ाना** है। यह योजना प्रधान मंत्री सिंंचाई योजना (PMKSY) के अंतर्गत “केन्द्र‑परिवर्तित माइक्रो‑इरिगेशन” (ड्रिप/स्पिंकलर) तकनीक को बढ़ावा देती है, जिससे किसानों को सीमित जल संसाधन में अधिक उत्पादन और गुणवत्तायुक्त फसलें प्राप्त हों, तथा इस तकनीक के मानकों और उपयोगिता के बारे में जागरूकता बढ़े [Source 1, Page 1] [Source 3, Page 1]।",
+Q009,यह योजना पानी बचाने में कैसे मदद करती है?,Hindi,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,3,3,1.0,True,"**योजना पानी बचाने में इस प्रकार मदद करती है**
+
+- **कम‑पानी वाली माइक्रो‑इरिगेशन तकनीक को बढ़ावा** – योजना का मुख्य उद्देश्य ड्रिप/स्प्रिंकलर (माइक्रो‑इरिगेशन) सिस्टम को किसानों तक पहुँचाना है, जिससे कम मात्रा में पानी से अधिक क्षेत्र को सिंचित किया जा सके【Source 1, Page 1】।  
+- **पानी की उपयोग दक्षता बढ़ाना** – “कम पानी में अधिक उत्पादन प्राप्त करना” को लक्ष्य रखकर, यह योजना फसलों की गुणवत्ता और उत्पादन को बढ़ाते हुए जल की खपत को घटाती है【Source 2, Page 1】।  
+- **अनुदान के माध्यम से अपनाने को आसान बनाना** – ड्रिप/स्प्रिंकलर सिस्टम की कुल लागत का एक हिस्सा केंद्र‑राज्य‑टॉप‑अप अनुदान के रूप में दिया जाता है, जिससे किसान इन जल‑बचत तकनीकों को आर्थिक रूप से अपनाने में सक्षम होते हैं【Source 1, Page 1】।  
+
+इन उपायों के माध्यम से, किसान कम पानी में अधिक भूमि को सिंचित कर सकते हैं, जिससे कुल जल उपयोग में उल्लेखनीय कमी आती है और कृषि उत्पादन की स्थिरता बढ़ती है।",
+Q010,दस्तावेज़ में सिंचाई के किन तरीकों का उल्लेख है?,Hindi,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,3,3,1.0,True,"दस्तावेज़ में दो प्रकार की सिंचाई विधियों का उल्लेख है:
+
+- **माइक्रोइरिगेशन (Micro‑irrigation)** – योजना के नाम में ही “केन्द्र परिवर्तित माईक्रोइरिगेशन” कहा गया है【Source 1, Page 1】।  
+- **ड्रिप/स्पिंडलर सिस्टम (Drip/Spindle irrigation system)** – योजना के विवरण में “ड्रिप/स्पिं कलर” तथा “ड्रिप/स्पिं कलर सिस्टेम” का उल्लेख है, जो ड्रिप इरिगेशन तकनीक को दर्शाता है【Source 1, Page 1】【Source 2, Page 1】।  
+
+इन दो उल्लेखों से स्पष्ट है कि दस्तावेज़ में मुख्यतः माइक्रोइरिगेशन के अंतर्गत ड्रिप इरिगेशन को प्रमुख सिंचाई विधि के रूप में प्रस्तुत किया गया है।",
+Q011,इस योजना से कृषि उत्पादन में क्या सुधार होने की उम्मीद है?,Hindi,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,4,4,1.0,True,"इस योजना के तहत अपेक्षित कृषि‑उत्पादन में मुख्य सुधार इस प्रकार हैं :
+
+- **कम पानी में अधिक उत्पादन** – योजना का उद्देश्य कम जल उपयोग से अधिक फसल उत्पादन हासिल करना है, जिससे जल‑संचय की दक्षता बढ़ेगी【Source 1, Page 1】।  
+- **उत्पादक‑गुणवत्ता में वृद्धि** – ड्रिप/स्पिंकलर प्रणाली की गुणवत्ता मानकों के अनुसार फसल‑विशेष उपयोग को बढ़ावा देकर फसल की गुणवत्ता और बाजार मूल्य में सुधार किया जाएगा【Source 1, Page 1】।  
+- **सिंचित क्षेत्र का विस्तार** – कम पानी में अधिकतम सिंचित क्षेत्र को बढ़ाने के माध्यम से कुल कृषि‑क्षेत्र में जल‑संचालित भूमि का विस्तार होगा【Source 2, Page 1】।  
+- **कुल उत्पादन एवं उत्पादकता में बढ़ोतरी** – अधिक सिंचित क्षेत्र और बेहतर जल‑प्रबंधन के साथ कुल उत्पादन (उत्पादकता) तथा फसल की गुणवत्ता दोनों में वृद्धि की उम्मीद है【Source 2, Page 1】।  
+
+संक्षेप में, प्रधानमंत्री सिंंचाई योजना (PMKSY) के अंतर्गत माइक्रो‑इरिगेशन (ड्रिप/स्पिंकलर) के उपयोग से जल‑बचत के साथ फसल उत्पादन, उत्पादन की गुणवत्ता और कुल कृषि‑उत्पादकता में उल्लेखनीय सुधार होने की आशा की जा रही है।",
+Q012,यह योजना फसलों की गुणवत्ता सुधारने का लक्ष्य कैसे रखती है?,Hindi,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,4,4,1.0,True,"यह योजना फसलों की गुणवत्ता सुधारने के लिए निम्नलिखित तरीकों से लक्ष्य रखती है:
+
+- **कम पानी में अधिक उत्पादन और गुणवत्तायुक्त फसलें**: योजना का मुख्य उद्देश्य कम जल‑स्रोतों का उपयोग करके अधिक उत्पादन प्राप्त करना तथा ऐसी फसलें उगाना है जिनकी गुणवत्ता मानकों के अनुरूप हो【Source 1, Page 1】।  
+- **ड्रिप/स्पिंकलर प्रणाली की गुणवत्ता मानकों के बारे में जागरूकता**: ड्रिप या स्पिंकलर (माइक्रो‑इरिगेशन) उपकरणों की गुणवत्ता मानकों और फसल‑विशेष उपयोगिता के संदर्भ में किसानों को जागरूक किया जाएगा【Source 1, Page 1】।  
+- **उत्पादकीय गुणवत्ता को बढ़ाना**: योजना के उद्देश्यों में “उत्पादकीय गुणवत्ता को बढ़ाना” स्पष्ट रूप से उल्लेखित है, जिससे फसलों की बाजार‑योग्यता और उपभोक्ता‑संतुष्टि में सुधार होगा【Source 2, Page 1】।  
+- **प्रशिक्षण एवं सूचना प्रसार**: योजना के तहत आवेदन, पंजीकरण और प्रशिक्षण के माध्यम से किसानों को नवीनतम इरिगेशन तकनीक और गुणवत्ता‑संबंधी जानकारी प्रदान की जाएगी【Source 1, Page 1】।  
+
+इन उपायों के माध्यम से, कम जल‑उपयोग के साथ फसलों की मात्रा के साथ‑साथ उनकी गुणवत्ता भी सुधारी जाएगी।",
+Q013,दस्तावेज़ के दूसरे पृष्ठ पर कौन-सी अपडेट तिथि और समय दिया गया है?,Hindi,True,"[[""sample_policy_cc85838bf982.pdf"", ""2""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,1,1,1.0,True,"दस्तावेज़ के दूसरे पृष्ठ पर दिया गया अपडेट दिनांक **27‑10‑2022** और समय **12:10:09** है【Source 1, Page 2】. (पृष्ठ पर अतिरिक्त रूप से “10/24/26, 11:56 AM” भी दिखाया गया है, पर यह “अपडेट दिनांक” के रूप में स्पष्ट नहीं किया गया है।)",
+Q014,यह दस्तावेज़ किस प्रकार की सिंचाई योजना के बारे में है?,Hindi,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"यह दस्तावेज़ **प्रधान मंत्री सिंचाई योजना (PMKSY) के अंतर्गत केंद्र‑प्रायोजित माइक्रो‑इरीगेशन (ड्रिप/स्प्रिंकलर) योजना** के बारे में है, जिसे “केंद्र परिवर्तित माइक्रोइरिगेशन” कहा गया है【Source 1, Page 1】【Source 3, Page 1】.",
+Q015,Is scheme ka main purpose kya hai?,Hinglish,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"Scheme ka main purpose hai **kam paani mein zyada se zyada khet ko sinchai karna aur faslon ki paidawaar aur quality ko behtar banana**.  
+
+- Yeh plan “कम पानी में अधिक उत्पादन प्राप्त करना, गुणवत्तायुक्त फसलों का उत्पादन” ke liye design kiya gaya hai [Source 2, Page 1].  
+- Iska aur ek detail description kehta hai ki “कम पानी में ज्यादा से ज्यादा सिंंचित क्षेत्र तथा उत्पााकदन एवं उत्पाादकीय गुणवत्ता को बढ़ाना” [Source 3, Page 1].
+
+Is tarah, scheme ka mool lakshya paani ki bachat karte hue kisanon ki upaj aur faslon ki quality dono ko improve karna hai.",
+Q016,Micro-irrigation se paani kaise bachta hai?,Hinglish,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,3,3,1.0,True,"Micro‑irrigation, jaise ki **drip** ya **sprinkler** system, paani ko seedha paudhe ke root zone tak pahunchata hai, jisse surface par evaporation aur runoff bahut kam ho jata hai. Isliye har drop ka maximum fayda milta hai aur overall paani ka istemal ghatt jata hai.  
+
+PM‑KSY ke **Micro‑irrigation** yojna ka mukhya uddeshya hi yahi hai:
+
+- **“कम पानी में अधिक उत्पादन”** aur **“कम पानी में ज्यादा से ज्यादा सिंचित क्षेत्र”** paida karna【Source 1, Page 1】.  
+- Yojna mein **ड्रिप/स्पिं कलर** (drip/sprinkler) systems ka upyog bataya gaya hai【Source 1, Page 1】.  
+
+Is tarah, micro‑irrigation se paani bachat isliye hoti hai kyunki:
+
+1. **Direct delivery** – paani seedha paudhe tak jata hai, bekaar ke loss kam hote hain.  
+2. **Precise control** – zaroorat ke hisaab se paani ki matra set ki ja sakti hai, over‑irrigation nahi hoti.  
+3. **Higher efficiency** – drip/sprinkler ki efficiency traditional flood irrigation se kaafi zyada hoti hai, isliye kam paani mein zyada area aur behtar fasal milti hai【Source 2, Page 1】.  
+
+Isliye micro‑irrigation se paani ki bachat hoti hai aur kheti ki productivity bhi badhti hai.",
+Q017,Document mein irrigation ke kaun-kaun se methods bataye gaye hain?,Hinglish,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"Document mein jo irrigation ke methods bataye gaye hain, wo hain:
+
+- **Micro‑irrigation** (छोटे‑छोटे जल‑स्रोतों ka istemal) – yeh poori scheme ka core concept hai.  
+- **Drip irrigation** (ड्रिप) – paani ko seedhi paudhon ke paath par boond‑boond chhodta hai.  
+- **Sprinkler irrigation** (स्पिंं कलर) – paani ko spray ki tarah khet mein phailaata hai.
+
+Yeh teen methods hi passages mein explicitly mention kiye gaye hain【Source 1, Page 1】【Source 2, Page 1】.",
+Q018,Is scheme se farmers ko kya benefit milne ka aim hai?,Hinglish,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,5,5,1.0,True,"Scheme ka main aim hai ki **kam paani mein zyada aur quality‑ful fasal** mil sake aur iske liye **micro‑irrigation (drip/sprinkler) systems ko promote** kiya jaye.  
+
+- Yojana ka uddeśhya “kam paani mein adhik utpādhan, gunavattāyukt fasaal” aur “drip/sprinkler ki gunavattā ke mānkon aur fasaal vishesh upyogita ke prati jagrukta” badhānā hai【Source 2, Page 1】.  
+- Iske alāvā, yojana ka “kam paani mein jyādā se jyādā sinchit kṣetra aur utpādank aur utpādak gunavattā ko baṛhānā” bhi likha hai【Source 4, Page 1】.  
+
+**Farmers ko milne wale benefit:**
+
+- **Anudān (grant) ki shreni** – yojana ke tahat har kisan ko micro‑irrigation system ki kul lagat ka kuch pratishat anudān milta hai, jisse unka kharcha kam ho jata hai【Source 2, Page 1】【Source 4, Page 1】.  
+- **Direct Benefit Transfer (DBT)** ke through anudān seedhe kisan ke bank account mein transfer hota hai, ya agar loan ke through liya gaya ho to loan account mein adjust ho jata hai【Source 1, Page 2】.  
+
+Is tarah, scheme ka aim hai ki paani ki bachat, utpādank badhāna, aur financial subsidy ke through kisanon ko micro‑irrigation adopt karne mein sahāyata dena.",
+Q019,Scheme ka agricultural production aur crop quality par kya objective hai?,Hinglish,True,"[[""sample_policy_cc85838bf982.pdf"", ""1""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,2,2,1.0,True,"Scheme ka main objective hai ki **kam paani mein zyada se zyada kheti ki jaaye aur usse behtar quality ki fasal mil sake**.  
+
+- Document ke hisaab se, yeh plan “कम पानी में अधिक उत्पादन प्राप्त करना और गुणवत्तायुक्त फसलों का उत्पादन” karne ke liye design ki gayi hai [Source 1, Page 1].  
+- Saath hi, “कम पानी में ज्यादा से ज्यादा सिंंचित क्षेत्र तथा उत्पादन एवं उत्पादन गुणवत्ता को बढ़ाना” bhi iske core goals mein shamil hain [Source 2, Page 1].
+
+Iska matlab hai ki micro‑irrigation (drip/spin‑col) system ke through paani ki bachat karte hue, kheti ka area badhaya jayega aur faslon ki quantity‑plus‑quality dono improve hongi.",
+Q020,Page 2 par update ki date aur time kya diya hua hai?,Hinglish,True,"[[""sample_policy_cc85838bf982.pdf"", ""2""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,False,True,1,1,1.0,True,"Page 2 par diya hua “अपडेट दिनांक” hai:
+
+**27‑10‑2022 12:10:09** [Source 3, Page 2]",
+Q021,What is the author's favourite colour?,English,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,0,0,,,"The uploaded document passages do not contain any information about the author’s favourite colour. Therefore, based on the provided evidence, I cannot determine the author’s favourite colour.",
+Q022,What is the author's full name?,English,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,0,0,,,"The supplied passages do not contain any information about the author’s name. None of the excerpts from the document mention a person’s full name, so the author’s identity cannot be determined from the provided material.",
+Q023,In which city was the author born?,English,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,0,0,,,"The provided passages do not contain any information about the author’s birthplace, so the city where the author was born cannot be determined from these documents.",
+Q024,What is the exact total budget allocated to this scheme?,English,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,3,3,1.0,,"The uploaded passages do not contain any figure that states the total amount of money allocated to the Prime Minister Krishi Sinchayi Yojana (PMKSY) micro‑irrigation scheme.  
+
+The excerpts describe:
+
+* the scheme’s objectives, eligibility and grant‑percentage structures (e.g., “लघु/सीमांत अ.जा/अ.ज.जा 36 24 10 70” and similar tables)【Source 3, Page 1】,  
+* the process for payment and online application link【Source 1, Page 2】, and  
+* general information about the scheme’s coverage and land‑size limits【Source 4, Page 1】.  
+
+None of these passages mention a total budget amount (such as a monetary figure in rupees or any other currency).  
+
+**Therefore, based on the supplied documents, the exact total budget allocated to this scheme cannot be determined.**",
+Q025,What is the exact number of farmers who have benefited from this scheme?,English,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,4,4,1.0,,"The supplied documents do not state an exact number of farmers who have benefited from the scheme. None of the passages contain a specific beneficiary count; they only describe eligibility categories, percentages of grant assistance, and general scheme objectives【Source 1, Page 2】【Source 2, Page 1】【Source 3, Page 1】【Source 4, Page 1】.",
+Q026,लेखक का पसंदीदा रंग क्या है?,Hindi,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,4,4,1.0,,"लेखक के पसंदीदा रंग के बारे में प्रदान किए गए दस्तावेज़ों में कोई जानकारी नहीं है। इसलिए इस प्रश्न का उत्तर विश्वसनीय रूप से देना संभव नहीं है। (उपलब्ध स्रोतों में इस विषय का उल्लेख नहीं है)【Source 1, Page 1】【Source 2, Page 1】【Source 3, Page 1】【Source 4, Page 2】",
+Q027,इस दस्तावेज़ के लेखक का पूरा नाम क्या है?,Hindi,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,1,1,1.0,,"दुर्भाग्यवश, प्रदान किए गए दस्तावेज़ के इन अंशों में लेखक का पूरा नाम कहीं उल्लेखित नहीं है। इसलिए इस प्रश्न का उत्तर विश्वसनीय रूप से देना संभव नहीं है।  
+
+**स्रोत:** [Source 1, Page 2] (और अन्य सभी अंशों में भी लेखक का नाम नहीं मिला)।",
+Q028,लेखक का जन्म किस शहर में हुआ था?,Hindi,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,4,4,1.0,,"प्रदान किए गए दस्तावेज़ों में लेखक के जन्मस्थान के बारे में कोई जानकारी नहीं है। इसलिए इस प्रश्न का उत्तर इन स्रोतों से विश्वसनीय रूप से नहीं दिया जा सकता।  
+
+(उपलब्ध passages केवल योजना‑संबंधी विवरण प्रस्तुत करते हैं; इनमें लेखक या उसके जन्मस्थान का उल्लेख नहीं है)【Source 1, Page 1】【Source 2, Page 1】【Source 3, Page 1】【Source 4, Page 2】",
+Q029,इस योजना के लिए कुल कितने रुपये का बजट निर्धारित किया गया है?,Hindi,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,4,4,1.0,,"दुर्भाग्यवश, प्रदान किए गए दस्तावेज़ों में इस योजना के लिए निर्धारित कुल बजट (रुपयों में) का कोई उल्लेख नहीं है। उपलब्ध अंशों में केवल योजना का उद्देश्य, अनुदान‑सहायता के प्रतिशत अनुपात और आवेदन प्रक्रिया आदि का विवरण है, लेकिन कुल वित्तीय राशि का उल्लेख नहीं किया गया है【Source 1, Page 2】【Source 2, Page 1】【Source 3, Page 1】【Source 4, Page 1】। इसलिए इस प्रश्न का सटीक उत्तर उपलब्ध दस्तावेज़ों के आधार पर नहीं दिया जा सकता।",
+Q030,इस योजना से लाभान्वित किसानों की सटीक संख्या कितनी है?,Hindi,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,4,4,1.0,,"दुर्भाग्यवश, अपलोड किए गए दस्तावेज़ों में इस योजना से लाभान्वित किसानों की **सटीक संख्या** नहीं दी गई है। उपलब्ध passages (Source 1, Source 2, Source 3, Source 4) में योजना के उद्देश्य, अनुदान प्रतिशत, आवेदन प्रक्रिया आदि का विवरण है, परन्तु लाभार्थियों की कुल संख्या का कोई उल्लेख नहीं है। इसलिए इस प्रश्न का उत्तर इन दस्तावेज़ों के आधार पर प्रदान नहीं किया जा सकता।  
+
+*स्रोत:* [Source 1, Page 2]; [Source 2, Page 1]; [Source 3, Page 1]; [Source 4, Page 1]",
+Q031,Author ka favourite colour kya hai?,Hinglish,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,0,0,,,"Author ka favourite colour ke baare mein jo aap pooch rahe hain, uske liye diye gaye documents mein koi bhi jankari nahi hai. In passages mein sirf yojana ke details, anudan, aur online application link di gayi hai, lekin author ya unke favourite colour ka koi zikr nahi milta.  
+
+**Isliye, uploaded documents se author ka favourite colour batana possible nahi hai.**",
+Q032,Is document ke author ka full name kya hai?,Hinglish,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,2,2,1.0,,"Document ke diye gaye passages mein author ka koi naam ya full name mention nahi hai. Sabhi passages (jaise [Source 1, Page 1] aur [Source 3, Page 2]) sirf yojana ki details, percentages, aur application process ke baare mein hain, lekin author ki jankari nahi di gayi hai.  
+
+Isliye, uploaded documents se author ka full name pata nahi chal pa raha.",
+Q033,Author ka birth city kaunsa hai?,Hinglish,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,0,0,,,"Author ka birth city ke baare mein jo aap pooch rahe hain, uski koi jankari diye gaye documents mein maujood nahi hai.  
+
+**Evidence:** Saare diye gaye passages (Source 1‑4) sirf PMKSY (प्रधान मंत्री सिंंचाई योजना) se judi policy details, grant percentages, application process, aur contact links ke baare mein hain. Inmein author ka naam, biography, ya birth city ka koi zikr nahi hai.  
+
+Isliye, is sawal ka reliable answer dene ke liye humein aur koi source chahiye jo specifically author ki personal details batata ho.",
+Q034,Scheme ka exact total budget kitna hai?,Hinglish,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,0,0,,,"Scheme ka exact total budget documents mein kahin bhi mention nahi kiya gaya hai.  
+
+- **Source 1** aur **Source 4** sirf scheme ka purpose, beneficiary criteria aur grant percentage ke baare mein batate hain, lekin poore budget ki rakam nahi deti.  
+- **Source 2** mein sirf application fee (नि:शुल्क) aur payment process ka zikr hai, budget ka koi figure nahi hai.  
+- **Source 3** bhi grant percentage (centre‑share, state‑share, top‑up) dikhata hai, lekin in percentages ko total budget amount se jod kar koi number provide nahi karta.
+
+Isliye, uploaded documents se scheme ka exact total budget nikalna possible nahi hai.  
+
+*(No passage provides the total budget figure – see Sources 1‑4.)*",
+Q035,Is scheme se exactly kitne farmers benefit hue hain?,Hinglish,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,4,4,1.0,,"Scheme se **kitne farmers exactly benefit hue hain**, iski koi specific sankhya supplied passages mein mention nahi hai.  
+
+- Jo documents aapne provide kiye hain (Source 1, Source 2, Source 3, aur Source 4) unmein sirf scheme ka uddeshya, eligibility, grant percentages, aur payment process ke baare mein details hain, lekin beneficiaries ki total count ka koi figure nahi diya gaya hai.  
+
+Isliye, uploaded documents se hum exact number nahi bata sakte.  
+
+**Citation:** [Source 1, Page 2]; [Source 2, Page 1]; [Source 3, Page 1]; [Source 4, Page 1]",
+Q036,What is the official telephone number of the department?,English,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,0,0,,,"The supplied documents do not contain an official telephone number for the department. None of the provided passages include a phone contact detail. Therefore, the uploaded documents do not provide enough information to answer the question. 
+
+*Evidence:* The passages from Sources 1‑4 (pages 1‑2) contain only program descriptions, percentages, and an online application link, but no telephone number is mentioned.",
+Q037,इस योजना को लागू करने वाले अधिकारी का मोबाइल नंबर क्या है?,Hindi,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,4,4,1.0,,"दुर्भाग्यवश, अपलोड किए गए दस्तावेज़ों में योजना को लागू करने वाले अधिकारी का मोबाइल नंबर उल्लेखित नहीं है। इसलिए इस प्रश्न का उत्तर उपलब्ध प्रमाणों से नहीं दिया जा सकता।  
+
+**स्रोत:**  
+- [Source 1, Page 1]  
+- [Source 2, Page 2]  
+- [Source 3, Page 1]  
+- [Source 4, Page 1]",
+Q038,What is the exact publication date of the original document?,English,False,"[[""sample_policy_cc85838bf982.pdf"", ""2""]]","[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",True,True,True,1,1,1.0,True,"The only date shown in the supplied material is an “update date” recorded on the second page:
+
+- “अपडेट दिनांक 27‑10‑2022 12:10:09”【Source 2, Page 2】
+
+No passage provides an explicit “publication date” for the original document. Therefore, based on the available evidence, the document’s exact publication date cannot be determined; the only date available is the update timestamp of 27 October 2022.",
+Q039,Document mein author ki qualification kya di gayi hai?,Hinglish,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,False,False,0,0,,,"Document mein author ki qualification ka koi zikr nahi milta hai. Jo passages aapne provide kiye hain (Source 1, Source 2, Source 3, Source 4) sabhi sirf yojana ke details, percentages, aur application process ke baare mein hain, lekin author ki qualification ya background ke baare mein koi information nahi di gayi hai. इसलिए, इस सवाल का जवाब उपलब्ध दस्तावेज़ों से नहीं दिया जा सकता।",
+Q040,इस योजना के अगले वर्ष का सटीक बजट कितना होगा?,Hindi,False,[],"[[""sample_policy_cc85838bf982.pdf"", ""1""], [""sample_policy_cc85838bf982.pdf"", ""2""]]",,True,True,2,2,1.0,,"इस योजना के अगले वर्ष के **सटीक बजट** के बारे में प्रदान किए गए दस्तावेज़ों में कोई संख्या या कुल राशि नहीं दी गई है।  
+
+उपलब्ध अंशों में केवल योजना का उद्देश्य, लाभार्थी वर्ग, अनुदान प्रतिशत‑प्रस्ताव, आवेदन प्रक्रिया आदि का विवरण है, लेकिन अगले वित्तीय वर्ष के कुल बजट या राशि का उल्लेख नहीं है【Source 1, Page 1】【Source 3, Page 1】।  
+
+इसलिए, उपलब्ध दस्तावेज़ों के आधार पर इस प्रश्न का विश्वसनीय उत्तर देना संभव नहीं है।",

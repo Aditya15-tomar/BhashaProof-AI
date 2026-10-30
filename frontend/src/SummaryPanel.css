@@ -1,0 +1,136 @@
+
+/* ==========================================
+   Markdown rendering for BhashaProof AI
+   ========================================== */
+
+.bp-summary-markdown {
+  overflow-wrap: anywhere;
+  word-break: normal;
+  line-height: 1.75;
+}
+
+.bp-summary-markdown p {
+  margin: 0 0 0.75rem;
+}
+
+.bp-summary-markdown p:last-child {
+  margin-bottom: 0;
+}
+
+.bp-summary-markdown strong {
+  font-weight: 750;
+  color: inherit;
+}
+
+.bp-summary-markdown em {
+  font-style: italic;
+}
+
+.bp-summary-markdown ul,
+.bp-summary-markdown ol {
+  padding-left: 1.5rem;
+  margin: 0.65rem 0 0.85rem;
+}
+
+.bp-summary-markdown li {
+  padding-left: 0.2rem;
+  margin-bottom: 0.35rem;
+}
+
+.bp-summary-markdown li::marker {
+  color: var(--bp-accent, currentColor);
+}
+
+.bp-summary-markdown h1,
+.bp-summary-markdown h2,
+.bp-summary-markdown h3,
+.bp-summary-markdown h4 {
+  font-size: 1rem;
+  font-weight: 750;
+  line-height: 1.45;
+  margin: 1rem 0 0.45rem;
+}
+
+.bp-summary-markdown h1:first-child,
+.bp-summary-markdown h2:first-child,
+.bp-summary-markdown h3:first-child,
+.bp-summary-markdown h4:first-child {
+  margin-top: 0;
+}
+
+.bp-summary-markdown blockquote {
+  margin: 0.8rem 0;
+  padding: 0.65rem 1rem;
+  border-left: 3px solid currentColor;
+  background: rgba(127, 127, 127, 0.07);
+  border-radius: 0 8px 8px 0;
+}
+
+.bp-summary-markdown code {
+  font-family: Consolas, "Courier New", monospace;
+  font-size: 0.9em;
+  overflow-wrap: anywhere;
+}
+
+.bp-summary-markdown pre {
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 0.9rem;
+  border-radius: 10px;
+  background: rgba(127, 127, 127, 0.09);
+}
+
+.bp-summary-markdown pre code {
+  white-space: pre;
+}
+
+.bp-summary-markdown a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  overflow-wrap: anywhere;
+}
+
+.bp-summary-markdown hr {
+  border: 0;
+  border-top: 1px solid rgba(127, 127, 127, 0.25);
+  margin: 1rem 0;
+}
+
+.bp-summary-markdown table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 0.8rem 0;
+}
+
+.bp-summary-markdown th,
+.bp-summary-markdown td {
+  border: 1px solid rgba(127, 127, 127, 0.25);
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.bp-summary-markdown th {
+  font-weight: 750;
+  background: rgba(127, 127, 127, 0.08);
+}
+
+.bp-summary-overview {
+  line-height: 1.8;
+}
+
+.bp-summary-point-markdown {
+  min-width: 0;
+}
+
+.bp-summary-term-markdown {
+  margin-top: 0.35rem;
+}
+
+.bp-summary-extra-coverage {
+  margin-top: 0.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid rgba(127, 127, 127, 0.2);
+}

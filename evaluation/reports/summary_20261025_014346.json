@@ -1,0 +1,16 @@
+{
+  "evaluated_at": "2026-10-25T01:43:46.489201+05:30",
+  "dataset_size": 40,
+  "top_k": 4,
+  "retrieval_recall_at_k": 1.0,
+  "retrieval_cases_with_expected_sources": 21,
+  "retrieval_hits": 21,
+  "abstention_accuracy": 0.775,
+  "abstention_test_cases": 40,
+  "citation_reference_precision": 1.0,
+  "citation_reference_cases_all_valid": 1.0,
+  "citation_cases": 32,
+  "total_citations": 86,
+  "valid_citations": 86,
+  "note": "Citation validity checks source references and page metadata only. It does not measure semantic faithfulness. Review answers against their evidence to assess faithfulness. Abstention accuracy is based on heuristic phrase detection."
+}

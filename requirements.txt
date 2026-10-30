@@ -1,0 +1,12 @@
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+rank-bm25
+langchain-text-splitters
+langchain-groq
+python-dotenv
+pytest
+fastapi
+uvicorn
+python-multipart

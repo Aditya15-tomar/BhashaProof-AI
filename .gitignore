@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# React
+node_modules/
+dist/
+frontend/node_modules/
+frontend/frontend/node_modules/
+frontend/dist/
+frontend/frontend/dist/
+
+# Uploaded documents
+documents/*
+!documents/.gitkeep
+
+# Generated vector index
+vectorstore/*
+!vectorstore/.gitkeep
+
+# Editor files
+.vscode/
+.idea/
